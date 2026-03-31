@@ -6,3 +6,4 @@ fastf1
 numpy
 requests
 plotly
+scikit-learn
