@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+python.1/
+venv/
+.env
+
+# Data (IMPORTANT)
+data/raw/cache/
+data/raw/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
